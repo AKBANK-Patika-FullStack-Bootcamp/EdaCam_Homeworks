@@ -36,10 +36,6 @@ The API has been tested using Postman, an API platform for the designed Web API,
 
 ![UpdateProductUnSuccess](https://user-images.githubusercontent.com/54909611/147855143-d13aa905-4ddb-4d5e-ab8e-08971c3191a8.JPG)
 
-- To delete the product, the response is the method that adds the id information of the product with an **existing** id in the system as a parameter to the endpoint and returns the Result object as a response after the deletion process and displays the request status, message and the current product list in the system **(the product has been deleted)**.
-
-![DeleteProductSuccess](https://user-images.githubusercontent.com/54909611/147855202-c77d26ff-caa4-4aa1-91b4-1a1edb319c80.JPG)
-
 - To delete the product, the id information of the product with the existing id in the system is added as a parameter to the endpoint, and the response is returned by calling the method that returns the Result object as a response after the deletion process and displays the request status, message and the current product list in the system **(the product has been deleted)**.
 
 ![DeleteProductSuccess](https://user-images.githubusercontent.com/54909611/147855202-c77d26ff-caa4-4aa1-91b4-1a1edb319c80.JPG)
