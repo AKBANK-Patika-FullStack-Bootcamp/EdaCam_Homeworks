@@ -56,6 +56,7 @@ The fields in the Brand table are as in the figure.
 ![image](https://user-images.githubusercontent.com/54909611/148611044-c4844d05-5c33-4c2e-949a-f9fb90dd64da.png)
 
 Then it was tested by adding data to these tables.
+
 -Product
 ![image](https://user-images.githubusercontent.com/54909611/148611484-2f9a596d-c505-4bf2-a67c-c7789ea8a5af.png)
 
