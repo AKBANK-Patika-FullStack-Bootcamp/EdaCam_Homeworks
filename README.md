@@ -57,10 +57,10 @@ Then, Product and Brand tables were added to this database.
 
 - Then it was tested by adding data to these tables.
 
--Product
+- Product
 ![image](https://user-images.githubusercontent.com/54909611/148611484-2f9a596d-c505-4bf2-a67c-c7789ea8a5af.png)
 
--Brand
+- Brand
 ![image](https://user-images.githubusercontent.com/54909611/148611579-77a5d62c-2336-4e3d-9299-75e6ef7c3b27.png)
 
 - Finally, by establishing a one-to-many relationship between these two tables, the brandId information of the product was obtained from the Brand table.
