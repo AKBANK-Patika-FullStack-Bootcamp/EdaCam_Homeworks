@@ -49,13 +49,13 @@ The API has been tested using Postman, an API platform for the designed Web API,
 Then, Product and Brand tables were added to this database.
 ![image](https://user-images.githubusercontent.com/54909611/148610886-6c206d9a-eae2-481d-abfb-43b390cef1db.png)
 
-The fields in the product table are as in the figure.
+- The fields in the product table are as in the figure.
 ![image](https://user-images.githubusercontent.com/54909611/148610986-d67bb86e-bbec-4d94-afb6-9caabf4214a1.png)
 
-The fields in the Brand table are as in the figure.
+- The fields in the Brand table are as in the figure.
 ![image](https://user-images.githubusercontent.com/54909611/148611044-c4844d05-5c33-4c2e-949a-f9fb90dd64da.png)
 
-Then it was tested by adding data to these tables.
+- Then it was tested by adding data to these tables.
 
 -Product
 ![image](https://user-images.githubusercontent.com/54909611/148611484-2f9a596d-c505-4bf2-a67c-c7789ea8a5af.png)
@@ -63,7 +63,7 @@ Then it was tested by adding data to these tables.
 -Brand
 ![image](https://user-images.githubusercontent.com/54909611/148611579-77a5d62c-2336-4e3d-9299-75e6ef7c3b27.png)
 
--Finally, by establishing a one-to-many relationship between these two tables, the brandId information of the product was obtained from the Brand table.
+- Finally, by establishing a one-to-many relationship between these two tables, the brandId information of the product was obtained from the Brand table.
 ![image](https://user-images.githubusercontent.com/54909611/148611782-1299de2e-3c45-4c7f-89e2-a4c499933744.png)
 
 
