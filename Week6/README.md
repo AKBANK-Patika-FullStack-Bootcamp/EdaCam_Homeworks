@@ -14,7 +14,7 @@
 - Returns the updated array as a result.
 - Input Array:[2,3,4]
 - Output:
- ![Part2Çıktı](https://user-images.githubusercontent.com/54909611/151713031-089082db-d009-4466-9038-e480346ecbd6.JPG)
+<br> ![Part2Çıktı](https://user-images.githubusercontent.com/54909611/151713031-089082db-d009-4466-9038-e480346ecbd6.JPG)
 
 ## Part 3
 - The inverse of the given string is formed by 6 methods.
